@@ -1,4 +1,4 @@
-package com.tsy.eurekaclient;
+package com.jxf.eurekaclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
